@@ -10,7 +10,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 //        setContentView(R.layout.activity_main);
-        setContentView(R.layout.ex05_01);
+//        setContentView(R.layout.ex05_01);
 //        setContentView(R.layout.ex05_02);
 //        setContentView(R.layout.ex05_03);
 //        setContentView(R.layout.ex05_05);
@@ -19,9 +19,7 @@ public class MainActivity extends AppCompatActivity {
 //        setContentView(R.layout.ex05_10);
 //        setContentView(R.layout.ex05_11);
 //        setContentView(R.layout.ex05_12);
-//        setContentView(R.layout.ex05_13);
-//        setContentView(R.layout.ex05_14);
-//        setContentView(R.layout.ex05_18);
-//        setContentView(R.layout.ex05_19);
+//        setContentView(R.layout.ex05_12a);
+        setContentView(R.layout.ex05_12b);
     }
 }
